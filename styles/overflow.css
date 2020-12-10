@@ -39,7 +39,7 @@ header section:first-child {
 /* entête 2 */
 
 header section:last-child {
-    background: #35b88f url('../modele/assets/css/images/banner.svg') bottom center no-repeat;
+    background: #35b88f url('../images/banner.svg') bottom center no-repeat;
     padding: 40px;
 }
 
@@ -48,7 +48,7 @@ header section:last-child {
 body {
     font-family: 'Source sans pro', sans-serif;
     text-align: center;
-    background-image: url('../modele/images/bg.jpg');
+    background-image: url('../images/bg.jpg');
     background-size: cover;
     color: #ffffff;
     font-size: 14px;
@@ -118,7 +118,7 @@ h3, h4 {
 /* transition */
 
 .arrow {
-    background: url('../modele/assets/css/images/arrow.svg') no-repeat center;
+    background: url('../images/arrow.svg') no-repeat center;
     background-size: contain;
     height: 30px;
     margin: 30px;
